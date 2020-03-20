@@ -1,3 +1,0 @@
-[console_scripts]
-wallpaper-reddit = wpreddit.main:run
-
